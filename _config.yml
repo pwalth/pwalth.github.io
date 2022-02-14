@@ -3,15 +3,15 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Peter Walther
 
 # Short bio or description (displayed in the header)
-description: A Short Description
+description: Sophomore Biochemistry and Physics major at Cal Poly
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # To use the Cal Poly Learn by Doing logo put https://raw.githubusercontent.com/[username]/[website_name]/master/images/CP_LBD.jpg
 # But fill in your actual username and website name
-avatar: 
+avatar: https://raw.githubusercontent.com/pwalth/pwalth.github.io/master/images/CP_LBD.jpg
 
 #
 # Flags below are optional
@@ -23,7 +23,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: 
+  github: pwalth
   instagram:
   linkedin:
   pinterest:
