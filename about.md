@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! My name I'm Peter Walther, a college sophomore majoring in biochemistry and physics. My goal is to work in a research based academic field, ideally as an astronaut. I've had many odd jobs and a lot of experience in many differnt tasks from customer service, to sailing, to chemistry lab construction. I've always been a person who wants to know why things are the way they are, and I hope both in school and life that is always the case.
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[armcdona@calpoly.edu](mailto:armcdona@calpoly.edu)
+[pete.k.walther@gmail.com](mailto:pete.k.walther@gmail.com)
