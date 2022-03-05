@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-permalink: /pubs/
+title: Experience
+permalink: /exps/
 ---
 
 1. A great publication.
